@@ -4,7 +4,7 @@ export default function Home() {
       <main className="flex flex-col gap-2 row-start-2 items-center">
         <h1 className="text-4xl text-center font-medium">LyfaLabs</h1>
         <p className="text-lg text-center">
-          Technical Consulting Services
+          Technical and Management Consulting
         </p>
       </main>
       <footer className="row-start-3 flex flex-wrap items-center justify-center">
